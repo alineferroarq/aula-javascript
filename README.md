@@ -23,7 +23,7 @@ git status
 ### 2.2. adicinar as alterações que serão enviados
 
 ```
-git add.
+git add .
 ```
 ### 2.3. verificar as alterações enviadas
 
